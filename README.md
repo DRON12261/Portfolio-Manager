@@ -1,2 +1,13 @@
-# Portfolio-Manager
-GUI application on Python with Tkinter
+# Portfolio Manager 
+Portfolio Manager это программа для разработки портфолио любых видов и категорий любой сложности.
+
+**ВНИМАНИЕ!** Проект был разработан примерно в 2016-2017 году и является моим первым полноценным проектом, с которым я занял призовое место в областном конкурсе проектов будучи школьником (Казахстан, Костанайская область). Впоследствии, благодаря этому проекту, я поступил в университет. Сейчас в большей степени имеет историческую ценность.
+
+## Презентация
+[Ссылка на презентацию в Google Docs](https://docs.google.com/presentation/d/1sZCAdsf0iqQftan9BRL8tQ_ItS3AozmK-BuvYiBhB1I/edit?usp=sharing)
+
+## Скриншоты приложения
+![Скрин1](https://i.ibb.co/7j0Dcrg/1.jpg)
+![Скрин2](https://i.ibb.co/jDnfWcj/2.jpg)
+![Скрин3](https://i.ibb.co/L8Tt5MJ/3.jpg)
+![Скрин4](https://i.ibb.co/17csrWg/4.png)
